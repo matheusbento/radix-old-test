@@ -1,0 +1,27 @@
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.Domain\bin\Debug\netcoreapp3.1\RadixTest.Domain.deps.json
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.Domain\bin\Debug\netcoreapp3.1\RadixTest.Domain.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.Domain\bin\Debug\netcoreapp3.1\RadixTest.Domain.pdb
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.csprojAssemblyReference.cache
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.AssemblyInfo.cs
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.pdb
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.Domain\bin\Debug\netcoreapp3.1\RadixTest.Domain.deps.json
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.Domain\bin\Debug\netcoreapp3.1\RadixTest.Domain.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.Domain\bin\Debug\netcoreapp3.1\RadixTest.Domain.pdb
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.csprojAssemblyReference.cache
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.AssemblyInfoInputs.cache
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.AssemblyInfo.cs
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.pdb
+C:\radix\server\RadixTest.Domain\bin\Debug\netcoreapp3.1\RadixTest.Domain.deps.json
+C:\radix\server\RadixTest.Domain\bin\Debug\netcoreapp3.1\RadixTest.Domain.dll
+C:\radix\server\RadixTest.Domain\bin\Debug\netcoreapp3.1\RadixTest.Domain.pdb
+C:\radix\server\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.csprojAssemblyReference.cache
+C:\radix\server\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.AssemblyInfoInputs.cache
+C:\radix\server\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.AssemblyInfo.cs
+C:\radix\server\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.csproj.CoreCompileInputs.cache
+C:\radix\server\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.dll
+C:\radix\server\RadixTest.Domain\obj\Debug\netcoreapp3.1\RadixTest.Domain.pdb

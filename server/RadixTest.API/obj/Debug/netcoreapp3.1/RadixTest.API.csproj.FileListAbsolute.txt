@@ -1,0 +1,228 @@
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.exe
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.deps.json
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.runtimeconfig.json
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.runtimeconfig.dev.json
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.pdb
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.csprojAssemblyReference.cache
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.AssemblyInfoInputs.cache
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.AssemblyInfo.cs
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\staticwebassets\RadixTest.API.StaticWebAssets.Manifest.cache
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\staticwebassets\RadixTest.API.StaticWebAssets.xml
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\RadixTest.API.styles.css
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.RazorTargetAssemblyInfo.cache
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.pdb
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.genruntimeconfig.cache
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.csproj.CopyComplete
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.Domain.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.Infra.dll
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.Infra.pdb
+C:\Users\Matheus Bento\Desktop\radix\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.Domain.pdb
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.exe
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.deps.json
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.runtimeconfig.json
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.runtimeconfig.dev.json
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.pdb
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.Domain.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.Infra.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.Infra.pdb
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.Domain.pdb
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.csprojAssemblyReference.cache
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.AssemblyInfoInputs.cache
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.AssemblyInfo.cs
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.csproj.CoreCompileInputs.cache
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.RazorTargetAssemblyInfo.cache
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.csproj.CopyComplete
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\staticwebassets\RadixTest.API.StaticWebAssets.Manifest.cache
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\staticwebassets\RadixTest.API.StaticWebAssets.xml
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.dll
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.pdb
+C:\Users\humbe\OneDrive\Área de Trabalho\Nova pasta (3)\RadixTest\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.genruntimeconfig.cache
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.exe
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.deps.json
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.runtimeconfig.json
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.runtimeconfig.dev.json
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.API.pdb
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.Domain.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.Infra.dll
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.Infra.pdb
+C:\radix\server\RadixTest.API\bin\Debug\netcoreapp3.1\RadixTest.Domain.pdb
+C:\radix\server\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.csprojAssemblyReference.cache
+C:\radix\server\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.AssemblyInfoInputs.cache
+C:\radix\server\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.AssemblyInfo.cs
+C:\radix\server\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.csproj.CoreCompileInputs.cache
+C:\radix\server\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.MvcApplicationPartsAssemblyInfo.cs
+C:\radix\server\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.MvcApplicationPartsAssemblyInfo.cache
+C:\radix\server\RadixTest.API\obj\Debug\netcoreapp3.1\staticwebassets\RadixTest.API.StaticWebAssets.Manifest.cache
+C:\radix\server\RadixTest.API\obj\Debug\netcoreapp3.1\staticwebassets\RadixTest.API.StaticWebAssets.xml
+C:\radix\server\RadixTest.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\RadixTest.API.styles.css
+C:\radix\server\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.RazorTargetAssemblyInfo.cache
+C:\radix\server\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.csproj.CopyComplete
+C:\radix\server\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.dll
+C:\radix\server\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.pdb
+C:\radix\server\RadixTest.API\obj\Debug\netcoreapp3.1\RadixTest.API.genruntimeconfig.cache
